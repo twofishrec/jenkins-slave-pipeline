@@ -9,3 +9,10 @@ This project can be build using:
 This will build the image that can then be started using the docker compose file:
 
  ```$ docker-compose -f docker-compose-withdocker.yml up ```
+
+
+To Do
+Add Configuration to automatically install the Docker plugin to faciltate using slave images for builds.
+
+This plugin gets configured in the Cloud configuration tab. 
+
