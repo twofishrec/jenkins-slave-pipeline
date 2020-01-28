@@ -15,5 +15,5 @@ To Do
 Add Configuration to automatically install the Docker plugin to faciltate using slave images for builds.
 
 This plugin gets configured in the Cloud configuration tab. 
-![Image description](../images/configuringClouds.png)
+![Image description](https://github.com/twofishrec/jenkins-slave-pipeline/blob/sanitized/images/configuringClouds.png)
 
