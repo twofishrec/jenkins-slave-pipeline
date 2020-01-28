@@ -4,7 +4,7 @@ This project contains a Dockerfile to build a Jenkins container image that can b
 
 This project can be build using:
 
- ```$ docker build -t dso\jenkins .```
+ ```$ docker build -t myproject\jenkins .```
 
 This will build the image that can then be started using the docker compose file:
 
@@ -15,5 +15,5 @@ To Do
 Add Configuration to automatically install the Docker plugin to faciltate using slave images for builds.
 
 This plugin gets configured in the Cloud configuration tab. 
-![Image description](https://github.dev.taptechlab.net/devsecops/jenkins/blob/master/images/configuringClouds.png)
+![Image description](../images/configuringClouds.png)
 
